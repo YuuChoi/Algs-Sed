@@ -1,5 +1,5 @@
 # Algs-Sed
-This project is dedicated to give all the answers and solutions for Exercises of Algorithms by Sedgewick, Fourth Edition
+This project is dedicated to give all the answers and solutions for Exercises of Algorithms by Sedgewick, Fourth Edition   
 本项目将致力于给出Sedgewick等所著的《Algorithms》第四版的所有练习、提高题和实验题的答案和解决方案
 
 
