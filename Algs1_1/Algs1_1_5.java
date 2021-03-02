@@ -1,14 +1,14 @@
-package com.algorithms.shiraiyuu;
-
 import java.math.BigDecimal;
-import java.util.Arrays;
+import java.util.Scanner;
+
 
 public class Algs1_1_5
 {
     public static void main(String[] args)
     {
+        System.out.println("Input 2 decimals for testing:");
         Scanner in = new Scanner(System.in);
-        System.out.println(Algs1_1.betweenZeroAndOne(in.nextBigDecimal()) && Algs1_1.betweenZeroAndOne(in.nextBigDecimal()));
+        System.out.println(betweenZeroAndOne(in.nextBigDecimal()) && betweenZeroAndOne(in.nextBigDecimal()));
     }
 
     public static boolean betweenZeroAndOne(BigDecimal a)
