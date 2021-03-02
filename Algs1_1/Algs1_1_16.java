@@ -2,7 +2,6 @@
     Exercise 1.1.16
  */
 
-import java.util.Arrays;
 
 public class Algs1_1_16
 {
