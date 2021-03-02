@@ -5,7 +5,7 @@
 import java.math.BigDecimal;
 import java.util.Scanner;
 
-public class Algs1_1_5
+public class Algs1_1_05
 {
     public static void main(String[] args)
     {
